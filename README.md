@@ -12,3 +12,4 @@ Jinsoo Lee: jinsoolee@berkeley.edu
 Ma He: sunnymh@berkeley.edu
 Joy Chen: joyqchen@berkeley.edu
 Sam Kirschner: skirschner@berkeley.edu
+Tinghui "Eric" Tsai erictsai@berkeley.edu
